@@ -75,7 +75,7 @@ After locking our network down we waited 24 hours. No new incidents within that 
 <img src="https://i.imgur.com/qaij1mr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Drastic reduction in security events/Incidents after applying security measures.
+ Drastic reduction in security events/incidents after applying security measures.
 </p>
 <br />
 
@@ -86,7 +86,4 @@ After locking our network down we waited 24 hours. No new incidents within that 
 Metrics in our network after Hardening and adding security controls.  
 
 
-Thank you for viewing
 
-</p>
-<br />
